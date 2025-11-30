@@ -1,0 +1,72 @@
+[
+  {
+    "id": "clarity_mode",
+    "name": "Clarity Mode",
+    "category": "foundations",
+    "path": "prompts/foundations/clarity_mode.md",
+    "tags": ["structure", "formatting", "general"],
+    "status": "stable"
+  },
+  {"id": "persona_switcher",
+    "name": "Persona Switcher",
+    "category": "foundations",
+    "path": "prompts/foundations/persona_switcher.md",
+    "tags": ["persona", "roles", "tone"],
+    "status": "stable"},
+  {
+    "id": "first_day_onboarding",
+    "name": "First-Day Onboarding Guide",
+    "category": "foundations",
+    "path": "prompts/foundations/first_day_onboarding.md",
+    "tags": ["onboarding", "codebase", "ramp_up"],
+    "status": "stable"
+  },
+  {
+    "id": "precision_debugger",
+    "name": "Precision Debugger",
+    "category": "code",
+    "path": "prompts/code/precision_debugger.md",
+    "tags": ["debugging", "root_cause", "code"],
+    "status": "stable"
+  },
+  {
+    "id": "code_rewrite_engine",
+    "name": "Code Rewrite Engine",
+    "category": "code",
+    "path": "prompts/code/code_rewrite_engine.md",
+    "tags": ["refactor", "modernize", "readability"],
+    "status": "stable"
+  },
+  {
+    "id": "executive_summary",
+    "name": "Executive Summary Generator",
+    "category": "writing",
+    "path": "prompts/writing/executive_summary.md",
+    "tags": ["summary", "stakeholders", "reports"],
+    "status": "stable"
+  },
+  {
+    "id": "architectural_breakdown",
+    "name": "Architectural Breakdown",
+    "category": "system_design",
+    "path": "prompts/system_design/architectural_breakdown.md",
+    "tags": ["architecture", "components", "tradeoffs"],
+    "status": "stable"
+  },
+  {
+    "id": "codebase_explorer",
+    "name": "Codebase Explorer",
+    "category": "system_design",
+    "path": "prompts/system_design/codebase_explorer.md",
+    "tags": ["codebase", "exploration", "mapping"],
+    "status": "stable"
+  },
+  {
+    "id": "codebase_map_generator",
+    "name": "Codebase Map Generator",
+    "category": "system_design",
+    "path": "prompts/system_design/codebase_map_generator.md",
+    "tags": ["architecture", "map", "dependencies"],
+    "status": "stable"
+  }
+]
